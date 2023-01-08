@@ -1,0 +1,15 @@
+C:\Users\user\OneDrive\Masaüstü\Operator overloading, Collections\ClassWorkPractice\ClassWorkPractice\bin\Debug\net6.0\ClassWorkPractice.exe
+C:\Users\user\OneDrive\Masaüstü\Operator overloading, Collections\ClassWorkPractice\ClassWorkPractice\bin\Debug\net6.0\ClassWorkPractice.deps.json
+C:\Users\user\OneDrive\Masaüstü\Operator overloading, Collections\ClassWorkPractice\ClassWorkPractice\bin\Debug\net6.0\ClassWorkPractice.runtimeconfig.json
+C:\Users\user\OneDrive\Masaüstü\Operator overloading, Collections\ClassWorkPractice\ClassWorkPractice\bin\Debug\net6.0\ClassWorkPractice.dll
+C:\Users\user\OneDrive\Masaüstü\Operator overloading, Collections\ClassWorkPractice\ClassWorkPractice\bin\Debug\net6.0\ClassWorkPractice.pdb
+C:\Users\user\OneDrive\Masaüstü\Operator overloading, Collections\ClassWorkPractice\ClassWorkPractice\obj\Debug\net6.0\ClassWorkPractice.csproj.AssemblyReference.cache
+C:\Users\user\OneDrive\Masaüstü\Operator overloading, Collections\ClassWorkPractice\ClassWorkPractice\obj\Debug\net6.0\ClassWorkPractice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\OneDrive\Masaüstü\Operator overloading, Collections\ClassWorkPractice\ClassWorkPractice\obj\Debug\net6.0\ClassWorkPractice.AssemblyInfoInputs.cache
+C:\Users\user\OneDrive\Masaüstü\Operator overloading, Collections\ClassWorkPractice\ClassWorkPractice\obj\Debug\net6.0\ClassWorkPractice.AssemblyInfo.cs
+C:\Users\user\OneDrive\Masaüstü\Operator overloading, Collections\ClassWorkPractice\ClassWorkPractice\obj\Debug\net6.0\ClassWorkPractice.csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive\Masaüstü\Operator overloading, Collections\ClassWorkPractice\ClassWorkPractice\obj\Debug\net6.0\ClassWorkPractice.dll
+C:\Users\user\OneDrive\Masaüstü\Operator overloading, Collections\ClassWorkPractice\ClassWorkPractice\obj\Debug\net6.0\refint\ClassWorkPractice.dll
+C:\Users\user\OneDrive\Masaüstü\Operator overloading, Collections\ClassWorkPractice\ClassWorkPractice\obj\Debug\net6.0\ClassWorkPractice.pdb
+C:\Users\user\OneDrive\Masaüstü\Operator overloading, Collections\ClassWorkPractice\ClassWorkPractice\obj\Debug\net6.0\ClassWorkPractice.genruntimeconfig.cache
+C:\Users\user\OneDrive\Masaüstü\Operator overloading, Collections\ClassWorkPractice\ClassWorkPractice\obj\Debug\net6.0\ref\ClassWorkPractice.dll
