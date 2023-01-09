@@ -23,7 +23,7 @@ namespace Operator_overloading__Collections.Controller
             DateTime minTime = new DateTime(2000, 01, 01);
             int salary = 2000;
 
-            var result = _service.GetEmployees(maxTime, minTime, salary);
+            var result = _service.GetEmployeesCount(maxTime, minTime, salary);
 
             Console.WriteLine(result);
         }
